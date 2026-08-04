@@ -30,6 +30,10 @@ binary target `attack_detected` (44.7% positive class).
 
 ## Running
 
+```bash
+pip install -r requirements.txt
+```
+
 Open the notebook in Google Colab, run all cells top to bottom, and upload
 `Cybersecurity_Intrusion_Detection.csv` when prompted. Reproducible with
 `RANDOM_STATE = 42` set throughout.
